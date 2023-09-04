@@ -22,7 +22,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "KishorRajbanshi\\Blade\\": "src/"
+            "KishorRajbanshi\\LaravelBlade\\": "src/"
         }
     },
     "authors": [
@@ -39,7 +39,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "KishorRajbanshi\\Blade\\BladeServiceProvider"
+                "KishorRajbanshi\\LaravelBlade\\BladeServiceProvider"
             ]
         }
     },

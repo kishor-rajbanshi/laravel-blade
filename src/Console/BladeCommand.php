@@ -1,6 +1,6 @@
 <?php
 
-namespace KishorRajbanshi\Blade\Console;
+namespace KishorRajbanshi\LaravelBlade\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

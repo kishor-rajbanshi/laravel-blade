@@ -1,8 +1,8 @@
 <?php
 
-namespace KishorRajbanshi\Blade;
+namespace KishorRajbanshi\LaravelBlade;
 
-use KishorRajbanshi\Blade\Console\BladeCommand;
+use KishorRajbanshi\LaravelBlade\Console\BladeCommand;
 use Illuminate\Support\ServiceProvider;
 
 class BladeServiceProvider extends ServiceProvider
